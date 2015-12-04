@@ -1,3 +1,3 @@
       PROGRAM hello
-      PROGRAM *, "Hello, world!"
+      PRINT *, "Hello, world!"
       END PROGRAM hello
